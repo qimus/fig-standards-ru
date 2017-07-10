@@ -63,17 +63,17 @@
 _**Легенда:** A = Принято (Accepted) | D = Проект (Draft) | R = На рассмотрении (Review) 
 | V = На голосовании (Voting) | X = Отклонено (Rejected)_
 
-[psr0]: https://github.com/php-fig/fig-standards/blob/master/accepted/ru/PSR-0.md
-[psr1]: https://github.com/php-fig/fig-standards/blob/master/accepted/ru/PSR-1-basic-coding-standard.md
-[psr2]: https://github.com/php-fig/fig-standards/blob/master/accepted/ru/PSR-2-coding-style-guide.md
+[psr0]: https://github.com/qimus/fig-standards-ru/blob/master/accepted/ru/PSR-0.md
+[psr1]: https://github.com/qimus/fig-standards-ru/blob/master/accepted/ru/PSR-1-basic-coding-standard.md
+[psr2]: https://github.com/qimus/fig-standards-ru/blob/master/accepted/ru/PSR-2-coding-style-guide.md
 [psr3]: /psr/psr-3/
-[psr4]: https://github.com/php-fig/fig-standards/blob/master/accepted/ru/PSR-4-autoloader.md
+[psr4]: https://github.com/qimus/fig-standards-ru/blob/master/accepted/ru/PSR-4-autoloader.md
 [psr5]: https://github.com/phpDocumentor/fig-standards/tree/master/proposed
 [psr6]: https://github.com/Crell/fig-standards/blob/Cache/proposed/
 [psr7]: /psr/psr-7/
-[psr8]: https://github.com/php-fig/fig-standards/blob/master/proposed/psr-8-hug/psr-8-hug.md
-[psr9]: https://github.com/php-fig/fig-standards/blob/master/proposed/security-disclosure-publication.md
-[psr10]: https://github.com/php-fig/fig-standards/pull/473
+[psr8]: https://github.com/qimus/fig-standards-ru/blob/master/proposed/psr-8-hug/psr-8-hug.md
+[psr9]: https://github.com/qimus/fig-standards-ru/blob/master/proposed/security-disclosure-publication.md
+[psr10]: https://github.com/qimus/fig-standards-ru/pull/473
 [psr11]: https://github.com/container-interop/fig-standards/blob/master/proposed/container.md
 [psr11]: https://github.com/container-interop/fig-standards/blob/master/proposed/container.md
-[psr12]: https://github.com/php-fig/fig-standards/blob/master/proposed/extended-coding-style-guide.md
+[psr12]: https://github.com/qimus/fig-standards-ru/blob/master/proposed/extended-coding-style-guide.md
